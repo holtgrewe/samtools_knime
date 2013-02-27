@@ -1,0 +1,9 @@
+SAMtools for KNIME
+==================
+
+We use the generic workflow nodes software to create KNIME plugins from SAMtools.
+Currently, we provide the following nodes:
+
+* SamToBam
+* BamToSam
+* SortBam
